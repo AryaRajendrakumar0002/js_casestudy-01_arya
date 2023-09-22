@@ -15,4 +15,4 @@ for (const i in obj) {
     }
 }
   
-console.log("The most occured element is: " + item);
+console.log("The most frequent element is: " + item);
